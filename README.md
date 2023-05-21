@@ -1,4 +1,4 @@
-# Computer Security Challenge Solution
+# Blind SQL Injection Data Spoofer
 
 This repository contains solutions to a Computer Security Challenge involving Blind SQL Injection Attack.
 
